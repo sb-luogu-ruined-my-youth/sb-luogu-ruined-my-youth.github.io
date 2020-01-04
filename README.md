@@ -1,2 +1,2 @@
 # sb-luogu-ruined-my-youth.github.io
-sblgrmy
+你可以提供一切提醒洛谷改进的内容！
